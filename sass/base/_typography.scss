@@ -32,10 +32,7 @@ body{
     letter-spacing: 2px;
     transition: all .2s;
 
-    &:hover{
-        transform: skewY(2deg) skewX(9deg) scale(1.1);
-        text-shadow: .25rem 0.5rem 1rem rgba($color: $color-black, $alpha: 0.1);
-    }
+ 
 }
 .heading-tertiary{
     font-size: $default-font-size;
