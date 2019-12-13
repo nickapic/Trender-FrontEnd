@@ -291,7 +291,7 @@ body {
   text-transform: uppercase;
   text-decoration: none;
   display: inline-block;
-  padding: 1rem 3rem;
+  padding: 1rem 4rem;
   border-radius: 10rem;
   transition: all .2s;
   position: relative;
@@ -682,7 +682,7 @@ body {
     width: calc( 3 * ((100% - 3 * 7rem) / 4) + 2 * 7rem); }
 
 .footer {
-  background-color: #333;
+  background-color: #141414;
   padding: 10rem 0;
   font-size: 1.4rem;
   color: #f7f7f7; }
@@ -713,7 +713,7 @@ body {
         */ }
     .footer__link:link, .footer__link:visited {
       color: #f7f7f7;
-      background-color: #333;
+      background-color: #141414;
       text-decoration: none;
       text-transform: uppercase;
       display: inline-block;
